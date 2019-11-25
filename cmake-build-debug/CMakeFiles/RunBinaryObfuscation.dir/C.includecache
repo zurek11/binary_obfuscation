@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zurek/Documents/FIIT/BIT/Projekt/binary_obfuscation/binary_obfuscation.c
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+cypher.h
+C:/Users/zurek/Documents/FIIT/BIT/Projekt/binary_obfuscation/cypher.h
+pe.h
+C:/Users/zurek/Documents/FIIT/BIT/Projekt/binary_obfuscation/pe.h
+
+C:/Users/zurek/Documents/FIIT/BIT/Projekt/binary_obfuscation/cypher.h
+err.h
+C:/Users/zurek/Documents/FIIT/BIT/Projekt/binary_obfuscation/err.h
+
+C:/Users/zurek/Documents/FIIT/BIT/Projekt/binary_obfuscation/err.h
+
+C:/Users/zurek/Documents/FIIT/BIT/Projekt/binary_obfuscation/pe.h
+err.h
+C:/Users/zurek/Documents/FIIT/BIT/Projekt/binary_obfuscation/err.h
+

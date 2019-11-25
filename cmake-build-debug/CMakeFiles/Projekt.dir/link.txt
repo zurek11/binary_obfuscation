@@ -1,0 +1,2 @@
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc libProjekt.a  CMakeFiles/Projekt.dir/binary_obfuscation/binary_obfuscation.c.obj CMakeFiles/Projekt.dir/binary_obfuscation/cypher.c.obj CMakeFiles/Projekt.dir/binary_obfuscation/pe.c.obj CMakeFiles/Projekt.dir/binary_obfuscation/mem.c.obj CMakeFiles/Projekt.dir/method_A/method_A.c.obj CMakeFiles/Projekt.dir/method_B/method_B.c.obj CMakeFiles/Projekt.dir/method_C/method_C.c.obj CMakeFiles/Projekt.dir/method_D/method_D.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ranlib.exe libProjekt.a
